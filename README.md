@@ -1,1 +1,1 @@
-# smart-farmer
+# smart-home-assignment task 1
